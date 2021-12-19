@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MovilDevAppTurismo</string>
+    <string name="monserrate" />
+    <string name="monserrate1">MONSERRATE</string>
+    <string name="descripcion">Descripción:</string>
+    <string name="botonregresarinicio">Regresar a menú principal</string>
+    <string name="texto_descripcion">El cerro de Monserrate es el más conocido de los cerros Orientales de Bogotá. Junto a Guadalupe es uno de los cerros tutelares de la ciudad. Monserrate tiene una altitud de 3152 m y se ubica sobre la cordillera oriental. La basílica del Señor de Monserrate ha sido lugar de peregrinación religiosa desde la época colonial y se constituye en un atractivo natural, religioso, gastronómico de la ciudad. Se puede ascender al cerro por el sendero peatonal, por teleférico o por funicular.</string>
+    <string name="descripcion_corta_monse">El cerro de Monserrate es el más conocido de los cerros Orientales de Bogotá. Junto a Guadalupe es uno de los cerros tutelares de la ciudad.</string>
+    <string name="puntu_monse">Puntuación: 4.5</string>
+    <string name="temperatura">10°C</string>
+</resources>

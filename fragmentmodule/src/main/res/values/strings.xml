@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MovilDevAppTurismo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="monserrate" />
+    <string name="monserrate1">MONSERRATE</string>
+    <string name="descripcion">Descripción:</string>
+    <string name="botonregresarinicio">Regresar a menú principal</string>
+    <string name="texto_descripcion">El cerro de Monserrate es el más conocido de los cerros Orientales de Bogotá. Junto a Guadalupe es uno de los cerros tutelares de la ciudad. Monserrate tiene una altitud de 3152 m y se ubica sobre la cordillera oriental. La basílica del Señor de Monserrate ha sido lugar de peregrinación religiosa desde la época colonial y se constituye en un atractivo natural, religioso, gastronómico de la ciudad. Se puede ascender al cerro por el sendero peatonal, por teleférico o por funicular.</string>
+    <string name="descripcion_corta_monse">El cerro de Monserrate es el más conocido de los cerros Orientales de Bogotá. Junto a Guadalupe es uno de los cerros tutelares de la ciudad.</string>
+    <string name="puntu_monse">Puntuación: 4.5</string>
+    <string name="temperatura">35°C</string>
+
+    <!-- Sync Preferences -->
+    <string name="notifications">Notificaciones</string>
+    <string name="title_activity_bottom">BottomActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_list">Lista</string>
+    <string name="title_detail">Detalle</string>
+    <string name="title_preference">Preferencias</string>
+    <string name="LaBoquilla">La Boquilla</string>
+    <string name="LaBoquillaDescripcion">La Boquilla es un corregimiento pesquero de raíces afrocaribeñas situado en el punto más al norte de Cartagena, ciudad que por décadas ha sido admirada en el mundo por su arquitectura e ingeniería colonial</string>
+</resources>

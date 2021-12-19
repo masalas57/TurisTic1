@@ -1,0 +1,35 @@
+[
+  {
+    "nombre": "La Boquilla",
+    "descripCorta" : "La Boquilla es un corregimiento pesquero de raíces afrocaribeñas situado en el punto más al norte de Cartagena",
+    "puntuacion" : "Puntuación: 4",
+    "temperatura" :  "35°C",
+    "urlpic" : "https://www.eluniversal.com.co/binrepository/1050x700/0c0/0d0/none/13704/UCTI/image_content_1987832_20190801144811.jpg"},
+  {
+    "nombre" : "Cerro San Felipe",
+    "descripCorta" : "El Castillo San Felipe de Barajas es una fortificación localizada en la ciudad de Cartagena de Indias en Colombia. Su nombre real es Fuerte de San Felipe de Barajas. Está situado sobre un cerro llamado San Lázaro y fue construido en 1657 durante la época colonial española.",
+    "puntuacion" : "Puntuación: 4",
+    "temperatura" :  "35°C",
+    "urlpic" : "https://viajeronomada.com/wp-content/uploads/2017/07/castillosanfelipecartagenaindias.jpg"},
+  {
+    "nombre" : "Isla Barú",
+    "descripCorta" : "La península de Barú (a veces denominada Isla de Barú o simplemente Barú), es una zona costera situada al sur y a 45 minutos en lancha de Cartagena de Indias, Colombia, famosa por sus playas blancas y agua turquesa",
+    "puntuacion" : "Puntuación: 4.8",
+    "temperatura" :  "35°C",
+    "urlpic" : "https://laderasur.com/content/uploads/2021/08/isla-baru-como-llegar-2.jpg"},
+  {
+    "nombre" : "Zapatos Viejos",
+    "descripCorta" : "Este monumento es un homenaje al satírico poeta cartagenero Luis Carlos López, llamado el Tuerto, uno de los más grandes poetas de la ciudad, y a su obra más popular, “A mi ciudad nativa”",
+    "puntuacion" : "Puntuación: 3.8",
+    "temperatura" :  "35°C",
+    "urlpic" : "https://imgs-akamai.mnstatic.com/71/07/710715cfef6f9a7df65c7781dd2ab941.jpg"
+  } ,{
+    "nombre" : "Plaza de la Aduana",
+    "descripCorta" : "Ésta es una de las más amplias y elegantes plazas de Cartagena de Indias. En el edificio de la Aduana, que abarca todo un costado de la plaza, vivió el fundador de Cartagena don Pedro de Heredia.”",
+    "puntuacion" : "Puntuación: 3.8",
+    "temperatura" :  "35°C",
+    "urlpic" : "https://www.cartagena-indias.com/Lugares/Images/plaza-aduana.jpg"}
+
+
+
+]
